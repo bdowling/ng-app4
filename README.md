@@ -1,6 +1,10 @@
-# NgApp4
+# ng-bootstrap appStarter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
+
+[Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) and [ng-bootstrap](https://ng-bootstrap.github.io/) have been added into go get things started.
+
+This is mostly a template for my projects, but feel free to clone.
 
 ## Development server
 
